@@ -1,5 +1,5 @@
 package br.com.danilo.test.config;
 
-public class TEste {
+public class Teste {
 
 }
