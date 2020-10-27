@@ -2,8 +2,9 @@ ame: CI/CD FOR DEV
 
 on:
   push:
-    branches: [ dev ]
-
+    branches: [ master ]
+  pull_request:
+    branches:  [ master ]
 jobs:
   build:
 
